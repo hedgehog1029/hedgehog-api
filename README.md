@@ -1,4 +1,4 @@
-hedgehog-api
+hedgehog-api (WIP)
 ============
 
 HTML / CSS / JS library, changes things like scrollbar and generally makes some UI changes.
